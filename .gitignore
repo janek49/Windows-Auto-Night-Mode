@@ -270,3 +270,5 @@ __pycache__/
 *.pyc
 /desktop.ini
 /MigrationBackup/61f0cc4e/AutoThemeChanger
+
+!nuget/FluentWPF.0.10.0.nupkg
